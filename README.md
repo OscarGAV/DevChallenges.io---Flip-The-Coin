@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/}">
+    <a href="https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/OscarGAV/DevChallenges.io---Flip-The-Coin}">
+    <a href="https://github.com/OscarGAV/DevChallenges.io---Flip-The-Coin">
       Solution
     </a>
     <span> | </span>
@@ -105,5 +105,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/](https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/})
-- GitHub [@OscarGAV](https://github.com/OscarGAV})
+- Website [https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/](https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/)
+- GitHub [@OscarGAV](https://github.com/OscarGAV)

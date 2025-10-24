@@ -105,5 +105,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/](https://oscargav.github.io/DevChallenges.io---Flip-The-Coin/)
+- Website [https://oscargav.github.io/flipping-coin-simulator/](https://oscargav.github.io/flipping-coin-simulator/)
 - GitHub [@OscarGAV](https://github.com/OscarGAV)
